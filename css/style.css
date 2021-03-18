@@ -1,0 +1,8 @@
+#pass {
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px 25px;
+    background-color: lightgrey;    
+}
